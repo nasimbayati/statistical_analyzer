@@ -24,6 +24,10 @@ This project is a Python-based tool for statistical visualization and numeric an
 python statistical_analyzer.py
 ```
 
+## 📷 Output Preview
+![Visual Statistical Analyzer Output](statistical_analyzer.png)
+
+
 ## 📦 Requirements
 - Python 3.x
 - matplotlib
